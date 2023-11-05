@@ -1,2 +1,2 @@
 "This is an auto generated msg"
-"please do npot reply"
+"please do not reply"
